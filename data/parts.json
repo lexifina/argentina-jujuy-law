@@ -1,0 +1,11 @@
+{
+ "parts": {
+  "10-constitucion.json": {
+   "acts": [
+    "constitucion"
+   ],
+   "sha256": "8a986afb3da0f07b4102c4195fb80bbfe27d22c2118bf99b75b94ca00563dfb5"
+  }
+ },
+ "schema": 1
+}
