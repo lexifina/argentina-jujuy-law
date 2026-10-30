@@ -1,0 +1,11 @@
+{
+  "path": "ar-y",
+  "code": "AR-Y",
+  "name": "Jujuy",
+  "level": "province",
+  "parent": "ar",
+  "repo": "https://github.com/lexifina/argentina-jujuy-law",
+  "build": "built: constitution, codes and laws (1 norms, 1 versions) from https://www.legislaturajujuy.gov.ar/",
+  "language": "es",
+  "sources": 1
+}

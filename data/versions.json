@@ -1,0 +1,19 @@
+{
+ "country": "AR-Y",
+ "acts": [
+  {
+   "slug": "constitucion",
+   "short": "Constitución",
+   "title": "Constitución de la Provincia de Jujuy",
+   "url": "https://www.legislaturajujuy.gov.ar/docs/constitucion_provincial.pdf",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 246,
+     "source_url": "https://www.legislaturajujuy.gov.ar/docs/constitucion_provincial.pdf",
+     "sha256": "39ace5963126246a24256a24b0fd4844ae3681e3be78491773d9c99466fefdbf"
+    }
+   ]
+  }
+ ]
+}
